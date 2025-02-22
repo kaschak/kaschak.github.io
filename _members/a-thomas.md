@@ -1,8 +1,8 @@
 ---
 name: Anuja Thomas 
 image: images/photo.jpg
-description: Lead Programmer
-role: programmer
+description: 
+role: PhD Candidate
 links:
   email: sarah.johnson@gmail.com
   twitter: sarahjohnson
