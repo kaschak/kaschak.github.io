@@ -1,5 +1,5 @@
 ---
-name: [Dianna Radpour](https://pages.github.com/](https://dradpour.github.io/)
+name: [Dianna Radpour](https://dradpour.github.io/)
 image: images/dianna.jpeg
 role: phd
 group: alum
