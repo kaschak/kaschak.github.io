@@ -1,5 +1,5 @@
 ---
-title: Blog
+title: Join the Lab! 
 nav:
   order: 4
   tooltip: Musings and miscellany
