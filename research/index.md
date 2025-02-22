@@ -7,8 +7,16 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+The Learning, Memory and Language Lab is dedicated to understanding the mechanisms involved in the comprehension and production of language. We are particularly interested in understanding how different kinds of experience shape our processing of language. 
+
+
+Our work on language comprehension largely focuses on the embodiment of language. That is, we are interested in how our systems of perception and action planning underpin our ability to understand language. 
+​
+
+Our work on language production has focused on the way that implicit and explicit learning processes shape the choices that we make when we speak and write. 
+​
+
+Check out our "Research" page to learn more about our current projects. 
 
 {% include section.html %}
 
