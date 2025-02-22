@@ -1,6 +1,6 @@
 ---
 name: [Dianna Radpour](https://dradpour.github.io/)
-image: images/dianna.jpeg
+image: images/dianna.jpg
 role: phd
 group: alum
 links:
