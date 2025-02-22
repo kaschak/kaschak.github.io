@@ -1,19 +1,20 @@
-- title: Cool Dataset
+- title: Structural repetition in responses to indirect requests
   subtitle: a subtitle
   group: featured
   image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  link: https://www.tandfonline.com/doi/full/10.1080/0163853X.2023.2255508
+  description: 
+  We report three experiments that assess whether structural priming in a question–answer dialogue context is affected by the use of direct requests, conventional indirect requests, and nonconventional indirect requests. In Experiments 1 and 2, experimenters made phone calls to businesses and asked either Can you tell me (at) what time you close? (conventional indirect request) or May I ask you (at) what time you close? (nonconventional indirect request). Structural priming was demonstrated by participants’ greater tendency to produce a preposition in their response (At 9 vs. 9 o’clock) when the question had a preposition than when it did not. The results of Experiments 1 and 2 suggest that priming is not statistically different across request types. In Experiment 3, we compared priming for the conventional indirect requests to priming for direct requests ([At] what time do you close?). Again, priming did not differ across question types. We conducted a final analysis that included data from all three experiments plus a large dataset collected using the same procedure. The larger analysis (n > 43,000) confirmed that priming did not differ across sentence types.
   repo: greenelab/lab-website-template
   tags:
     - resource
 
-- title: Cool Package
+- title: Elliptical Responses to Direct and Indirect Requests for Information
   subtitle: a subtitle
   group: featured
   image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  link: https://journals.sagepub.com/doi/10.1177/00238309231176526
+  description: We present two studies examining the factors that lead speakers to produce elliptical responses to requests for information. Following Clark (1979) and Levelt and Kelter (1982), experimenters called businesses and asked about their closing time (e.g., Can you tell me what time you close?). Participants provided the requested information in full sentence responses (We close at 9) or elliptical responses (At 9). A reanalysis of data from previous experiments using this paradigm shows that participants are more likely to produce an elliptical response when the question is a direct request for information (What time do you close?) than when the question is an indirect request for information (Can you tell me what time you close?). Participants were less likely to produce an elliptical response when they began their answer by providing a yes/no response (e.g., Sure…we close at 9). A new experiment replicated these findings, and further showed that elliptical responses were less likely when a) irrelevant linguistic content was inserted between the question and the participant’s response, and b) participants verbalized signs of difficulty retrieving the requested information. This latter effect is most prominent in response to questions that are seen as very polite (May I ask you what time you close?).  We discuss the role that the recoverability of the intended meaning of the ellipsis, the accessibility of potential antecedents for the ellipsis, pragmatic factors, and memory retrieval play in shaping the production of ellipsis.   
   repo: greenelab/lab-website-template
   tags:
     - resource
