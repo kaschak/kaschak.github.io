@@ -1,5 +1,5 @@
 ---
-name: Dr. Michael Kaschak, PhD
+name: Michael Kaschak, PhD
 image: images/photo.jpg
 role: principal-investigator
 affiliation: Floriday State University 
