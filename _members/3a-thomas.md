@@ -1,7 +1,7 @@
 ---
 name: Anuja Thomas 
 image: images/photo.jpg
-role: PhD Candidate 
+role: phd 
 group: alum
 links:
   github: john-doe
