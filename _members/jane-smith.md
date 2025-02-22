@@ -1,8 +1,8 @@
 ---
-name: Jane Smith
+name: Dr. Michael Kaschak, PhD
 image: images/photo.jpg
 role: principal-investigator
-affiliation: University of Colorado
+affiliation: Floriday State University 
 aliases:
   - J. Smith
   - J Smith
