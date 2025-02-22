@@ -1,5 +1,5 @@
 ---
-name: Sarah Johnson
+name: Anuja Thomas 
 image: images/photo.jpg
 description: Lead Programmer
 role: programmer
