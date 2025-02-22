@@ -1,6 +1,6 @@
 ---
 name: Dianna Radpour
-image: images/photo.jpg
+image: images/dianna.jpeg
 role: phd
 group: alum
 links:
