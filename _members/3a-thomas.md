@@ -1,11 +1,10 @@
 ---
 name: Anuja Thomas 
 image: images/photo.jpg
-description: 
-role: PhD Candidate
+role: PhD Candidate 
+group: alum
 links:
-  email: sarah.johnson@gmail.com
-  twitter: sarahjohnson
+  github: john-doe
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
