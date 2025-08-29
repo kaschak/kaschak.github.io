@@ -1,5 +1,5 @@
 ---
-name: Dianna Radpour
+name: Nelu D. Radpour
 image: images/dianna.jpg
 role: phd
 
