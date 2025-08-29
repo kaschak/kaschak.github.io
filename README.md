@@ -5,6 +5,6 @@
 
   # kaschak's Website
 
-  Visit **[kaschak.github.io](https://kaschak.github.io)** 🚀
+  Visit **[kaschak.github.io/nogood](https://kaschak.github.io/nogood)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
